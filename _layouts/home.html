@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="display-flex col-middle aligner" style="height:100vh;">
+  <div class="pui-panel-container">
+    <div class="pui-panel bg-neutral-11 box-shadow-1 border-rounded paxxxl">
+      <div class="pui-panel-body opt-inner-class txt-c" style="width: 550px;">
+        <p>
+          <svg alt="ibm-logo" height="40">
+            <use xlink:href="#ibm-logo"></use>
+          </svg>
+        </p>
+        {{ content }}
+        <br />
+        <p>
+          <a href="{{ site.lessons[0].url }}" class="pui-btn pui-btn-primary pui-btn-lg btn btn-primary btn-lg" aria-label="Start code pattern">
+            <span class="btn-inner-content pui-btn-inner-content">
+              <span>Start Code Pattern</span>
+            </span> 
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

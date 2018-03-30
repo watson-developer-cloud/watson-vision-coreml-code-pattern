@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<div class="grid grid-nogutter grid-show" style="min-height: 100vh">
+  <div class="col col-fixed pvxl phxl" style="width:350px;">
+    <p class="txt-c">
+      <a href="{{ site.url }}">
+        <svg alt="ibm-logo" height="40">
+          <use xlink:href="#ibm-logo"></use>
+        </svg>
+      </a>
+    </p>
+    <button
+      class="pui-btn pui-btn-brand pui-btn-lg btn btn-brand btn-lg btn-full"
+      type="button"
+      aria-label="Clone code pattern"
+    >
+      <span class="btn-inner-content pui-btn-inner-content">
+        <div class="icon icon-middle">
+          <svg alt="ibm-logo" width="40">
+            <use xlink:href="#github-icon"></use>
+          </svg>
+          </svg>
+        </div>
+        <span>Clone code pattern</span>
+      </span> 
+    </button>
+    <br />
+    <br />
+    <ol>
+    {% for item in site.lessons %}
+      {% if item.url == page.url %}
+        <li>{{ item.title }}</li>
+      {% else %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ol>
+  </div>
+  <div class="col paxxxl bg-neutral-11">
+    <h1>{{ page.title }}</h1>
+    <hr class="divider-alternate-1" />
+    <br />
+    {{ content }}
+    <br />
+    <div>
+      {% if page.previous %}
+      <a
+        href="{{ page.previous.url }}"
+        class="pui-btn pui-btn-default btn btn-default float-left"
+        aria-label="Previous page"
+      >
+        <span class="btn-inner-content pui-btn-inner-content">
+          <div class="icon icon-middle">
+            <svg alt="previous page icon" width="48" height="48">
+              <use xlink:href="#previous-icon"></use>
+            </svg>
+          </div>
+          <span>Previous</span>
+        </span>
+      </a>
+      {% endif %}
+      {% if page.next %}
+      <a
+        href="{{ page.next.url }}"
+        class="pui-btn pui-btn-primary btn btn-primary float-right"
+        aria-label="Next page"
+      >
+        <span class="btn-inner-content pui-btn-inner-content">
+          <div class="icon icon-middle">
+            <svg alt="next page icon" width="48" height="48">
+              <use xlink:href="#next-icon"></use>
+            </svg>
+          </div>
+          <span>Next</span>
+        </span> 
+      </a>
+      {% endif %}
+      <br />
+    </div>
+  </div>
+</div>
