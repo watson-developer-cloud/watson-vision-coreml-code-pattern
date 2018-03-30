@@ -1,5 +1,5 @@
 ---
-title: First Steps
+title: Getting the code
 ---
 
 1. Launch the terminal by clicking cmd+space on the keyboard and searching for terminal
