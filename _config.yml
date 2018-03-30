@@ -16,6 +16,9 @@ github_username:  yrezgui
 markdown: kramdown
 theme: minima
 
+# Code pattern config
+codepattern_url: https://github.com/watson-developer-cloud/visual-recognition-with-discovery-coreml
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
