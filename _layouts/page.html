@@ -4,7 +4,7 @@ layout: default
 <div class="grid grid-nogutter grid-show" style="min-height: 100vh">
   <div class="col col-fixed pvxl phxl" style="width:350px;">
     <p class="txt-c">
-      <a href="{{ site.url }}">
+      <a href="{{ "/" | relative_url }}">
         <svg alt="ibm-logo" height="40">
           <use xlink:href="#ibm-logo"></use>
         </svg>
@@ -32,12 +32,12 @@ layout: default
       {% if item.url == page.url %}
         <li>{{ item.title }}</li>
       {% else %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
     </ol>
   </div>
-  <div class="col paxxxl bg-neutral-11">
+  <div id="lesson" class="col paxxxl bg-neutral-11">
     <h1>{{ page.title }}</h1>
     <hr class="divider-alternate-1" />
     <br />
@@ -46,7 +46,7 @@ layout: default
     <div>
       {% if page.previous %}
       <a
-        href="{{ page.previous.url }}"
+        href="{{ page.previous.url | relative_url }}"
         class="pui-btn pui-btn-default btn btn-default float-left"
         aria-label="Previous page"
       >
@@ -62,7 +62,7 @@ layout: default
       {% endif %}
       {% if page.next %}
       <a
-        href="{{ page.next.url }}"
+        href="{{ page.next.url | relative_url }}"
         class="pui-btn pui-btn-primary btn btn-primary float-right"
         aria-label="Next page"
       >

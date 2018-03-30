@@ -7978,3 +7978,9 @@ address {
 .mlxxxxl {
   margin-left: 40px !important;
 }
+
+
+/* Custom CSS */
+#lesson p {
+  max-width: 700px !important;
+}
