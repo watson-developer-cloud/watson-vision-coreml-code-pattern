@@ -7984,3 +7984,7 @@ address {
 #lesson p {
   max-width: 700px !important;
 }
+
+#lesson li {
+  margin-bottom: 8px;
+}
