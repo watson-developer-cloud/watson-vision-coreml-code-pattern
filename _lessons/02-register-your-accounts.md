@@ -2,7 +2,7 @@
 title: Register your accounts
 ---
 # Watson Studio
-Visit [http://dataplatform.ibm.com](http://dataplatform.ibm.com).
+[Register](https://ibm.biz/BdZ2Gz) for an IBM Cloud account.
 
 * Follow the steps to login or create a new account
 
