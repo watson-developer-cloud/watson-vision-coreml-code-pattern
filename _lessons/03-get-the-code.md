@@ -6,7 +6,7 @@ title: Getting the code
 1. Clone the project with the command
 
 ```bash
-git clone https://github.com/watson-developer-cloud/visual-recognition-with-discovery-coreml.git
+git clone https://github.com/bourdakos1/Core-ML-Trainer.git
 ```
 
 1. `cd` into the project directory
