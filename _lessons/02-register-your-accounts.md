@@ -2,7 +2,7 @@
 title: Register your accounts
 ---
 # Watson Studio
-[Register](https://ibm.biz/BdZ2Gz) for an IBM Cloud account.
+[Register](https://ibm.biz/BdZK3i) for an IBM Cloud account.
 
 * Follow the steps to login or create a new account
 
