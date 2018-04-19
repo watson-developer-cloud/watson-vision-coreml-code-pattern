@@ -1,5 +1,6 @@
 ---
 title: Embedding the Watson SDK
+date: 2018-04-07
 ---
 
 1. Go to the project’s settings page by clicking on the blue top level file

@@ -1,5 +1,6 @@
 ---
 title: Creating your custom classifier
+date: 2018-04-04
 ---
 
 Navigate to [https://dataplatform.ibm.com](https://dataplatform.ibm.com).

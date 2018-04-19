@@ -1,5 +1,6 @@
 ---
 title: Getting the code
+date: 2018-04-03
 ---
 
 1. Launch the terminal by clicking cmd+space on the keyboard and searching for terminal

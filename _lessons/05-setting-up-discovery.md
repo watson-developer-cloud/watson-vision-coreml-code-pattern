@@ -1,5 +1,6 @@
 ---
 title: Setting up Discovery
+date: 2018-04-05
 ---
 
 1. At the top of the page, hover over ‘Services’ and click ‘Watson Services’
