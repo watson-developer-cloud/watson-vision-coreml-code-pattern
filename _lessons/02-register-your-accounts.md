@@ -1,5 +1,6 @@
 ---
 title: Register your accounts
+date: 2018-04-02
 ---
 # Watson Studio
 [Register](https://ibm.biz/BdZK3i) for an IBM Cloud account.

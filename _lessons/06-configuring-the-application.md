@@ -1,5 +1,6 @@
 ---
 title: Configuring the application
+date: 2018-04-06
 ---
 
 1. Open the project in Xcode by double clicking the `Core ML Vision Discovery.xcodeproj` file

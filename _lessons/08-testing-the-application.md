@@ -1,5 +1,6 @@
 ---
 title: Testing the application
+date: 2018-04-08
 ---
 
 1. You can run the application in the simulator or on a device. To run in the simulator, choose a phone option from the dropdown and click run

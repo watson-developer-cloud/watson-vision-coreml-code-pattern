@@ -1,5 +1,6 @@
 ---
 title: "Building an app with live retraining"
+date: 2018-04-11
 ---
 
 In the first application, we simply built a custom classifier that would allow you to identify items in a photo. This time, we'll build an application that can retrain your classifier from the application.
