@@ -7,6 +7,7 @@ date: 2018-04-09
 1. Under the **Signing** section, click **Add Account**
 ![](assets/add_account.png)
 1. Login with your Apple ID and password
+![](assets/xcode_add_account.png)
 1. *You should see a new personal team created*
 1. Close the preferences window
 
