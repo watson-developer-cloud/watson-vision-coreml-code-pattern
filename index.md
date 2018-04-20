@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: index
 ---
 
 ## iOS CoreML & Watson Visual Recognition

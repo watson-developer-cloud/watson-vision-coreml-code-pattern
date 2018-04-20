@@ -1,11 +1,6 @@
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: IBM CoreML Code Pattern
-email: yrezgui@uk.ibm.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Watson Visual Recognition & CoreML Code Pattern
 baseurl: "/watson-vision-coreml-code-pattern" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -17,19 +12,16 @@ markdown: kramdown
 theme: minima
 
 # Code pattern config
-codepattern_url: https://github.com/watson-developer-cloud/visual-recognition-with-discovery-coreml
+codepattern_url: https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Authors
+authors:
+  - name: Yacine Rezgui
+    twitter: yrezgui
+    github: yrezgui
+  - name: Sam Couch
+    twitter: SamuelCouch
+    github: samuelcouch
 
 collections:
   lessons:
@@ -40,4 +32,4 @@ defaults:
       path: ""
       type: "lessons"
     values:
-      layout: page
+      layout: lesson
