@@ -1,1 +1,1 @@
-# Watson Visual Recognition & CoreML Code Pattern
+# Watson Visual Recognition & Core ML Code Pattern

@@ -2,8 +2,8 @@
 layout: index
 ---
 
-## iOS CoreML & Watson Visual Recognition
+## iOS Core ML & Watson Visual Recognition
 
 <br>
 
-Classify images using Watson Visual Recognition on device and offline using the last CoreML APIs on iOS with Swift
+Classify images using Watson Visual Recognition on device and offline using the last Core ML APIs on iOS with Swift
