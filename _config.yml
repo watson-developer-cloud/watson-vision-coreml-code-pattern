@@ -25,12 +25,19 @@ authors:
     github: samuelcouch
 
 collections:
-  lessons:
+  advanced:
+    output: true
+  simple:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "lessons"
+      type: "advanced"
     values:
-      layout: lesson
+      layout: advanced_lesson
+  - scope:
+      path: ""
+      type: "simple"
+    values:
+      layout: simple_lesson
