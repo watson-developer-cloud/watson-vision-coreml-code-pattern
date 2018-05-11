@@ -11,18 +11,18 @@ layout: base
       </a>
     </p>
     <a
-      href="{{ site.codepattern_url }}"
+      href="{{ site.url }}/watson-vision-coreml-code-pattern/"
       class="pui-btn pui-btn-brand pui-btn-sm btn btn-brand btn-sm btn-full"
       aria-label="Clone code pattern"
     >
       <span class="btn-inner-content pui-btn-inner-content">
         <span>{{ site.codepattern_title }}</span>
-      </span> 
+      </span>
     </a>
     <br />
     <br />
     <ol>
-    {% for item in site.lessons %}
+    {% for item in site.simple %}
       {% if item.url == page.url %}
         <li>{{ item.title }}</li>
       {% else %}
@@ -67,7 +67,7 @@ layout: base
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
           </div>
-        </span> 
+        </span>
       </a>
       {% endif %}
       <br />
