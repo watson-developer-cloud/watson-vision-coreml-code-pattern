@@ -4,7 +4,6 @@ date: 2018-01-05
 ---
 
 Once your project is created you will be directed to your new project’s page. If you need to find your way back to this page you can get to it by going to **Projects > My First Project** on the top bar.
-> ### Understanding this page is very important!
 
 ![](https://cdn-images-1.medium.com/max/6208/1*XeBOPqzuso_oyUJQV6Tybg.png)
 
