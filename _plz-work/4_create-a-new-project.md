@@ -19,9 +19,7 @@ A popup should appear with a grid of choices. Choose **Visual Recognition** and 
 ![](https://cdn-images-1.medium.com/max/6208/1*gSQSftCNRc3Z76MBSMNYEg.png)
 
 Give your project a nice name and then click **Add** to add a Cloud Object Storage instance to your project.
-> ### What is Object Storage?
-> ### Where we keep all your training images!
-
+> ### Object Storage is used to store all your training images
 
 > **Note:** If you already have an object storage instance it will automatically be selected
 
