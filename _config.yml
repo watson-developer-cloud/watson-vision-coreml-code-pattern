@@ -29,6 +29,8 @@ collections:
     output: true
   simple:
     output: true
+  plz_work:
+    output: true
 
 defaults:
   - scope:
@@ -41,3 +43,8 @@ defaults:
       type: "simple"
     values:
       layout: simple_lesson
+  - scope:
+      path: ""
+      type: "plz_work"
+    values:
+      layout: plz_work

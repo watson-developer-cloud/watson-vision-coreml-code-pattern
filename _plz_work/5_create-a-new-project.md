@@ -13,10 +13,9 @@ We want to create a new project so click on the **New project** graphic.
 
 ![](https://cdn-images-1.medium.com/max/6208/1*S2phtiJ2DrUGZ5JWf9HcUw.png)
 
-A popup should appear with a grid of choices. Choose **Visual Recognition** and click **OK**.
-> **Note:** Some of the options are a little shy, so if you don’t see **Visual Recognition** just choose **Basic**.
+A popup should appear with a grid of choices. Choose **Basic** and click **OK**.
 
-![](https://cdn-images-1.medium.com/max/6208/1*gSQSftCNRc3Z76MBSMNYEg.png)
+![](assets/5_0_basic.png)
 
 Give your project a nice name and then click **Add** to add a Cloud Object Storage instance to your project.
 > ### Object Storage is used to store all your training images

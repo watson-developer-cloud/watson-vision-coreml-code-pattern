@@ -1,7 +1,8 @@
 ---
 title: Introduction
-date: 2018-01-01
+date: 2018-03-31
 ---
+
 
 Watson on the IBM Cloud allows you to integrate the world's most powerful AI into your applications and store, train and manage your data in the most secure cloud. With Watson Visual Recognition, you can quickly and accurately tag, classify and train visual content using machine learning.
 
@@ -38,5 +39,3 @@ These are the steps you will do in this workshop:
 
 1. Train a custom image classifier
 2. Create an iOS application including Visual Recognition SDK
-3. Retrain your custom classifier with more images
-4. Update the model on your iOS device and test it
