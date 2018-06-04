@@ -10,7 +10,7 @@ Or by pressing the **Add to project** dropdown from anywhere in your project and
 
 ![](https://cdn-images-1.medium.com/max/6208/1*bFq2m7N_GV7ahJhb640WPw.png)
 
-When you create a new model you should automatically be directed to the models training area.  If you need to find your way back to this page you can do so by navigating to your project *(Projects > My First Project) *then under the **Assets** tab click on your model under the **Visual recognition models** section.
+When you create a new model you should automatically be directed to the models training area.  If you need to find your way back to this page you can do so by navigating to your project *(Projects > My First Project)* then under the **Assets** tab click on your model under the **Visual recognition models** section.
 
 ![](https://cdn-images-1.medium.com/max/6208/1*wptStjboOq4k_9xrt5qeFA.png)
 
