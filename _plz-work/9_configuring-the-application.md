@@ -4,9 +4,9 @@ date: 2018-01-09
 ---
 
 1. Open the project directory in finder. You can do this with the following command
-```bash
-open .
-```
+   ```bash
+   open .
+   ```
 1. Then double click the `Core ML Vision.xcodeproj` file to open the project in Xcode
 ![](assets/9_0_open_project.png)
 1. In Watson Studio make your way back to your project's **Assets** tab.
