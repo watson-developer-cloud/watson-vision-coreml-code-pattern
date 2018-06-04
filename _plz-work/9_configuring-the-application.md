@@ -1,11 +1,17 @@
 ---
 title: Configuring the application
-date: 2018-04-06
+date: 2018-01-09
 ---
 
-1. Open the project directory in finder and double click the `Core ML Vision Discovery.xcodeproj` file to open the project in Xcode
+# THIS PAGE NEEDS UPDATED
+
+1. Open the project directory in finder. You can do this with the following command
+```bash
+open .
+```
+Then double click the `Core ML Vision.xcodeproj` file to open the project in Xcode
 ![](assets/xcode_open_project.png)
-1. Open file called `ImageClassificationViewController.swift`
+1. Open the file called `CameraViewController.swift`
 ![](assets/xcode_open_file.png)
 1. Go back to the Visual Recognition dashboard, where you trained your model
 ![](assets/visual_recognition_dashboard.png)

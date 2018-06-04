@@ -1,6 +1,6 @@
 ---
 title: Create a new project
-date: 2018-01-04
+date: 2018-01-05
 ---
 
 Once in, you should be greeted with with a nice welcome screen, but if not, click on the **Get started ▾** dropdown and you should end up seeing something like this:

@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-date: 2018-04-12
+date: 2018-01-13
 ---
 
 ## Where can I learn more about Watson?

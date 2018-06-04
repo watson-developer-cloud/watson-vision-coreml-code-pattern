@@ -1,6 +1,6 @@
 ---
 title: Deploy app to iOS device
-date: 2018-04-09
+date: 2018-01-11
 ---
 
 1. Select the project editor (*The name of the project with a blue icon*)

@@ -1,6 +1,6 @@
 ---
 title: Understanding your project
-date: 2018-01-05
+date: 2018-01-06
 ---
 
 Once your project is created you will be directed to your new project’s page. If you need to find your way back to this page you can get to it by going to **Projects > My First Project** on the top bar.
@@ -42,9 +42,7 @@ The assets page is where all of you training data will live (It’s also where y
 
 ![](https://cdn-images-1.medium.com/max/6208/1*Vrat4g1QzqOq8DZWOQoWUQ.png)
 
-The easiest way to upload your image data is to organize your images into folder locally on your computer.  Then upload the folders as zip files.
-
-You can upload these files by clicking **browse** or dragging them onto the drop zone.
+You can upload the training files you created earlier by clicking **browse** or dragging them onto the drop zone.
 
 ![](https://cdn-images-1.medium.com/max/6208/1*UdNqA50sZG6ekN7lH31KUA.png)
 

@@ -1,8 +1,7 @@
 ---
 title: Getting the code
-date: 2018-01-04
+date: 2018-01-08
 ---
-
 1. From *Launchpad* search for `terminal` and click the icon to open the application
 ![](assets/launchpad_terminal.png)
 1. Clone the project with the following command
@@ -16,7 +15,6 @@ cd visual-recognition-with-discovery-coreml
 ```
 ![](assets/terminal_cd_proj.png)
 1. Now we will gather the Watson SDK by executing the following command:
-
 ```bash
 carthage bootstrap --platform iOS
 ```
