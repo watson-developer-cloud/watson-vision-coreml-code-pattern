@@ -7,9 +7,9 @@ date: 2018-01-09
 ```bash
 open .
 ```
-Then double click the `Core ML Vision.xcodeproj` file to open the project in Xcode
+1. Then double click the `Core ML Vision.xcodeproj` file to open the project in Xcode
 ![](assets/9_0_open_project.png)
-1. Make your way back to your project's **Assets** tab.
+1. In Watson Studio make your way back to your project's **Assets** tab.
 ![](assets/9_1_project_assets.png)
 1. Then open your model and copy your **ModelID**. Keep it handy for later.
 ![](assets/9_2_model_id.png)
