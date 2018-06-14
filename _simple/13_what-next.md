@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "What next?"
 date: 2018-01-13
 ---
 
