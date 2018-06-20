@@ -10,7 +10,7 @@ It requires some skills on Swift but if you have background on other programming
 Before you begin, you need to make sure you have these softwares versions installed on your machine. **These versions are required to support Core ML**:
 
 * **MacOS 10.11 El Capitan** or later
-* **Xcode 9** or later
+* The **latest version of Xcode 9**
 * **iOS 11** or later (on your iPhone or iPad if you want the application to be on your device)
 * **[Carthage 0.29 or later](https://github.com/Carthage/Carthage#installing-carthage)**
 
