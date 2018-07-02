@@ -31,6 +31,8 @@ collections:
     output: true
   plz_work:
     output: true
+  arduino:
+    output: true
 
 defaults:
   - scope:
@@ -48,3 +50,8 @@ defaults:
       type: "plz_work"
     values:
       layout: plz_work
+  - scope:
+      path: ""
+      type: "arduino"
+    values:
+      layout: advanced_lesson
