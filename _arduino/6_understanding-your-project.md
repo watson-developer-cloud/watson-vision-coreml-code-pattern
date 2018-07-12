@@ -48,4 +48,4 @@ You can upload the training files you created earlier by clicking **browse** or 
 
 You should then see a list of you training data show up.
 
-![](https://cdn-images-1.medium.com/max/6208/1*NqGRhrxMwy6UABy-cIsIiw.png)
+![](assets/arduino_data_assets.png)

@@ -2,7 +2,7 @@
 title: Creating a model
 date: 2018-01-07
 ---
-The next part of the process is creating your very own custom visual recognition model.
+The next part of the process is creating your very own custom visual recognition model (two of them!).
 
 You can create a model by either going to assets and pressing **New visual recognition model** under **Visual recognition models**.
 
@@ -14,7 +14,7 @@ When you create a new model you should automatically be directed to the models t
 
 ![](https://cdn-images-1.medium.com/max/6208/1*wptStjboOq4k_9xrt5qeFA.png)
 
-Create a new class for each *type* of connector.
+Create a new class for each *type* of Arduino part (Uno and Mega).
 
 ![](https://cdn-images-1.medium.com/max/6208/1*-AJ7d3V8DNKCGDqB3Uww8Q.png)
 
@@ -29,5 +29,7 @@ After all your classes are complete, you are ready to train your model. Just pre
 ![](https://cdn-images-1.medium.com/max/6208/1*p1Q5JyTMQvUSa78Z1gtYhg.png)
 
 Training time can vary depending on the amount of training data. A good rule of thumb is a few seconds per image. Since we have around 200 images, we can expect the model to take about 5–10 minutes to train.
+
+Repeat the above steps for the second model for Arduino faults.
 
 In the meantime we can start preparing the iOS app.

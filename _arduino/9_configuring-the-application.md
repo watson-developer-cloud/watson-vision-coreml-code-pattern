@@ -19,7 +19,7 @@ date: 2018-01-09
 ![](assets/9_4_credentials.png)
 1. Copy your **"apikey"** and keep it handy for later.
 ![](assets/9_5_api_key.png)
-1. Open the file called `CameraViewController.swift` and add your ModelID.
+1. Open the file called `CameraViewController.swift` and add your ModelIDs.
 ![](assets/9_6_add_model_id.png)
 1. Then open the file called `Credentials.plist` and add your api key.
 ![](assets/9_7_add_api_key.png)

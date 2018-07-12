@@ -9,6 +9,8 @@ This code pattern is a workshop to introduce you to the Watson Visual Recognitio
 
 You will learn how to integrate Watson services in your iOS application and how to leverage Core ML APIs to enable artificial intelligence features directly on device.
 
+In this advanced tutorial, you'll also learn how to implement two models. For a given Arduino, the application we'll build identifies both the part as well as whether there is a fault of the circuit board.
+
 <hr />
 
 ## Why choose Watson Visual Recognition + Core ML?
@@ -36,7 +38,7 @@ These are the steps you will do in this workshop:
 
 {% include retina-image.html src="assets/watson-coreml-diagram-large.png" %}
 
-1. Train a custom image classifier
+1. Train two custom image classifiers
 2. Create an iOS application including Visual Recognition SDK
-3. Retrain your custom classifier with more images
+3. Retrain your custom classifiers with more images
 4. Update the model on your iOS device and test it
