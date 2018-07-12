@@ -9,7 +9,7 @@ This code pattern is a workshop to introduce you to the Watson Visual Recognitio
 
 You will learn how to integrate Watson services in your iOS application and how to leverage Core ML APIs to enable artificial intelligence features directly on device.
 
-In this advanced tutorial, you'll also learn how to implement two models. For a given Arduino, the application we'll build identifies both the part as well as whether there is a fault of the circuit board.
+In this advanced tutorial, you'll also learn how to implement two models. For a given Arduino, the application we'll build identifies both the part as well as whether there is a fault on the circuit board.
 
 <hr />
 
