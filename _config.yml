@@ -54,4 +54,4 @@ defaults:
       path: ""
       type: "arduino"
     values:
-      layout: advanced_lesson
+      layout: arduino_lesson
