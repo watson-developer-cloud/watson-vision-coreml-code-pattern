@@ -12,7 +12,7 @@ git clone https://github.com/watson-developer-cloud/visual-recognition-coreml.gi
 ![](assets/terminal_clone_repo_start.png)
 1. Change into the project directory with the following command
 ```bash
-cd visual-recognition-with-coreml
+cd visual-recognition-coreml/Core\ ML\ Vision\ Custom
 ```
 ![](assets/terminal_clone_repo_finished.png)
 1. Now we will gather the Watson SDK by executing the following command:
