@@ -17,11 +17,11 @@ The settings page is where we finish setting up our project. We can also change 
 
 However, the important thing we need to do here now is attach a new Visual Recognition service to our project.
 
-First, ensure that **Visual Recognition** is checked under **Tools**. This will unlock special abilities for our project, like creating a new Visual Recognition model. Once checked, make sure you save the change.
+First, ensure that **Watson Tools** is checked under **Tools**. This will unlock special abilities for our project, like creating a new Visual Recognition model. Once checked, make sure you save the change.
 
 In order for us to be able to create a model, we need to spin up a Watson service called Visual Recognition. We can do this by clicking the **Add service** dropdown under **Associated services**.
 
-![](https://cdn-images-1.medium.com/max/6208/1*nvK4iUnouTwVM5eMbm8E1Q.png)
+![](assets/step_6_add_watson_service.png)
 
 Choose **Watson**.
 
