@@ -8,4 +8,4 @@ date: 2018-01-12
 3. Upload the images to your computer.
 4. Back in the Visual Recognition tooling, select your model and click ‘Edit and Retrain.’
 5. Here you can upload your new training images and retrain the model
-6. You can click the ‘refresh button in the app to pull down the new model after retraining.
+6. You can click the refresh button in the app to pull down the new model after retraining.
