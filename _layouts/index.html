@@ -6,6 +6,10 @@ layout: base
   <div class="pui-panel-container">
     <div class="pui-panel bg-neutral-11 box-shadow-1 border-rounded paxxxl">
       <div class="pui-panel-body opt-inner-class txt-c" style="width: 550px;">
+        
+        <!-- FIXME: hack to fix alignment issue (logo was only half displayed) after adding additional workshops to landing page -->
+        <p><br /><br /><br /></p>
+        
         <p>
           <svg alt="ibm-logo" height="40">
             <use xlink:href="#ibm-logo"></use>
@@ -20,11 +24,11 @@ layout: base
              <div class="card">
               <div class="card_container">
                 <h4><b>Simple Tutorial<br/>(Single Model)</b></h4>
-                <br /><br />
+                <br />
                 <p>Create your own custom image classifier using a single model and deploy to an iOS application.</p>
                 <a href="{{ site.simple[0].url | relative_url }}" class="pui-btn pui-btn-primary pui-btn-lg btn btn-primary btn-lg" aria-label="Start code pattern">
                   <span class="btn-inner-content pui-btn-inner-content">
-                    <span>Start Code Pattern</span>
+                    <span>Start</span>
                   </span>
                 </a>
                 <br />
@@ -36,11 +40,11 @@ layout: base
              <div class="card">
               <div class="card_container">
                 <h4><b>Simple Tutorial<br/>(Multiple Models)</b></h4>
-                <br /><br />
+                <br />
                 <p>Create your own custom image classifier using multiple models and deploy to an iOS application.</p>
                 <a href="{{ site.multiple[0].url | relative_url }}" class="pui-btn pui-btn-primary pui-btn-lg btn btn-primary btn-lg" aria-label="Start code pattern">
                   <span class="btn-inner-content pui-btn-inner-content">
-                    <span>Start Code Pattern</span>
+                    <span>Start</span>
                   </span>
                 </a>
                 <br />
@@ -61,7 +65,7 @@ layout: base
                 <p>Introduction to Watson Swift SDK as well as building your own custom image classifier using a single model.</p>
                 <a href="{{ site.advanced[0].url | relative_url }}" class="pui-btn pui-btn-primary pui-btn-lg btn btn-primary btn-lg" aria-label="Start code pattern">
                   <span class="btn-inner-content pui-btn-inner-content">
-                    <span>Start Code Pattern</span>
+                    <span>Start</span>
                   </span>
                 </a>
                 <br />
@@ -77,7 +81,7 @@ layout: base
                 <p>Introduction to Watson Swift SDK as well as building your own custom image classifier with multiple models.</p>
                 <a href="{{ site.arduino[0].url | relative_url }}" class="pui-btn pui-btn-primary pui-btn-lg btn btn-primary btn-lg" aria-label="Start code pattern">
                   <span class="btn-inner-content pui-btn-inner-content">
-                    <span>Start Code Pattern</span>
+                    <span>Start</span>
                   </span>
                 </a>
                 <br />
@@ -89,7 +93,7 @@ layout: base
         <!-- <p>
           <a href="{{ site.simple[0].url | relative_url }}" class="pui-btn pui-btn-primary pui-btn-lg btn btn-primary btn-lg" aria-label="Start code pattern">
             <span class="btn-inner-content pui-btn-inner-content">
-              <span>Start Simple Code Pattern</span>
+              <span>Start</span>
             </span>
           </a>
         </p> -->
