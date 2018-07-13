@@ -46,6 +46,6 @@ You can upload the training files you created earlier by clicking **browse** or 
 
 ![](https://cdn-images-1.medium.com/max/6208/1*UdNqA50sZG6ekN7lH31KUA.png)
 
-You should then see a list of you training data show up.
+You should then see a list of your training data show up.
 
-![](https://cdn-images-1.medium.com/max/6208/1*NqGRhrxMwy6UABy-cIsIiw.png)
+![](assets/arduino_data_assets.png)
