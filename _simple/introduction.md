@@ -3,7 +3,7 @@ title: Introduction
 date: 2018-01-01
 ---
 
-Watson on the IBM Cloud allows you to integrate the world's most powerful AI into your applications and store, train and manage your data in the most secure cloud. With Watson Visual Recognition, you can quickly and accurately tag, classify and train visual content using machine learning.
+Watson on the IBM Cloud allows you to integrate a powerful AI into your applications and store, train, and manage your data in the most secure cloud. With Watson Visual Recognition, you can quickly and accurately tag, classify, and train visual content using machine learning.
 
 This code pattern is a workshop to introduce you to the Watson Visual Recognition capabilities for Core ML right from iPhone and iPad.
 

@@ -7,16 +7,16 @@ date: 2018-01-08
 ![](assets/launchpad_terminal.png)
 1. Clone the project with the following command
 ```bash
-git clone https://github.com/bourdakos1/visual-recognition-with-coreml.git
+git clone https://github.com/watson-developer-cloud/visual-recognition-coreml.git
 ```
-![](https://cdn-images-1.medium.com/max/2000/1*jcEtIwpi2lEVOGT1sTRNkQ.png)
+![](assets/terminal_clone_repo_start.png)
 1. Change into the project directory with the following command
 ```bash
-cd visual-recognition-with-coreml
+cd visual-recognition-coreml/Core\ ML\ Vision\ Custom
 ```
-![](https://cdn-images-1.medium.com/max/2000/1*2P8igODcx-gDTBCBqI_NrA.png)
+![](assets/terminal_clone_repo_finished.png)
 1. Now we will gather the Watson SDK by executing the following command:
 ```bash
 carthage bootstrap --platform iOS
 ```
-![](https://cdn-images-1.medium.com/max/2000/1*UhQa0QcN83yc0w-RLEzERQ.png)
+![](assets/terminal_carthage.png)
