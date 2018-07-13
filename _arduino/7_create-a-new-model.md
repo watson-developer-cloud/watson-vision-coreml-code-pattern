@@ -30,7 +30,7 @@ After all your classes are complete, you are ready to train your model. Just pre
 
 Training time can vary depending on the amount of training data. A good rule of thumb is a few seconds per image. Since we have around 200 images, we can expect the model to take about 5–10 minutes to train.
 
-Repeat the above steps for the second model for Arduino faults.
+Repeat the above steps for the second model of Arduino faults.
 
 ![](assets/train_model_fault.png)
 
