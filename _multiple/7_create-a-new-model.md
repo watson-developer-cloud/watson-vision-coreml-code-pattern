@@ -14,7 +14,7 @@ When you create a new model you should automatically be directed to the models t
 
 ![](assets/add_assets_screen.png)
 
-Create a new class for each *type* of connector.
+Create a new class for each *type* of Arduino part. Specifically, create a class for "Mega", then "Uno", and finally create a "Negative" class.
 
 ![](assets/add_assets_screen_empty_classes.png)
 
@@ -30,7 +30,7 @@ After all your classes are complete, you are ready to train your model. Just pre
 
 Training time can vary depending on the amount of training data. A good rule of thumb is a few seconds per image. Since we have around 200 images, we can expect the model to take about 5–10 minutes to train.
 
-Repeat the above steps for the second model of Arduino faults.
+Repeat the above steps for the second model of Arduino faults. Specifically, create a class for "Capacitor Failed", then "Normal", and finally create a "Negative" class.
 
 ![](assets/train_model_fault.png)
 
