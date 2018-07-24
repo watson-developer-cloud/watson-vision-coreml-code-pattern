@@ -7,8 +7,8 @@ date: 2018-01-09
    ```bash
    open .
    ```
-1. Then double click the `Core ML Vision Custom.xcodeproj` file to open the project in Xcode
-![](assets/step_9_open_project.png)
+1. Then double click the `Core ML Vision.xcodeproj` file to open the project in Xcode
+![](assets/9_0_open_project.png)
 1. In Watson Studio, make your way back to your project's **Assets** tab.
 ![](assets/9_1_project_assets.png)
 1. Then open your model and copy your **ModelID**. Keep it handy for later.
@@ -19,7 +19,7 @@ date: 2018-01-09
 ![](assets/9_4_credentials.png)
 1. Copy your **"apikey"** and keep it handy for later.
 ![](assets/9_5_api_key.png)
-1. Open the file called `ImageClassificationViewController.swift` and add your ModelID.
-![](assets/step_9_add_model_id.png)
-1. Next, in the same file, add your api key.
-![](assets/step_9_add_api_key_single_model.png)
+1. Open the file called `CameraViewController.swift` and add your ModelID.
+![](assets/9_6_add_model_id.png)
+1. Then open the file called `Credentials.plist` and add your api key.
+![](assets/9_7_add_api_key.png)
