@@ -29,7 +29,11 @@ collections:
     output: true
   simple:
     output: true
+  multiple:
+    output: true
   plz_work:
+    output: true
+  arduino:
     output: true
 
 defaults:
@@ -45,6 +49,16 @@ defaults:
       layout: simple_lesson
   - scope:
       path: ""
+      type: "multiple"
+    values:
+      layout: multiple_lesson
+  - scope:
+      path: ""
       type: "plz_work"
     values:
       layout: plz_work
+  - scope:
+      path: ""
+      type: "arduino"
+    values:
+      layout: arduino_lesson

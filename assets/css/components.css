@@ -7993,3 +7993,31 @@ address {
   max-width: 100%;
   height: auto;
 }
+
+.ok_column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.ok_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    margin: 1rem;
+    /* border-radius: 5px;
+    border: 1px solid rgb(0,0,0,0.2); */
+}
+
+/* Add some padding inside the card container */
+.card_container {
+    padding: 2px 16px;
+}
+
+.card_container p {
+  color: rgb(0,0,0,0.55)
+}
