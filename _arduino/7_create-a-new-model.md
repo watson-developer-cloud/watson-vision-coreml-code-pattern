@@ -2,7 +2,7 @@
 title: Creating a model
 date: 2018-01-07
 ---
-The next part of the process is creating your very own custom visual recognition model (two of them!).
+The next part of the process is creating your own custom visual recognition model (two of them!).
 
 You can create a model by either going to assets and pressing **New visual recognition model** under **Visual recognition models**.
 
