@@ -35,11 +35,11 @@ Next, click the link for **Settings**. This will take you a page displaying a li
 
 ![](assets/watson-tools-missing-add-apps.png)
 
-Select **Watson Studio** by clicking the "Try it for free" link.
+Select **Watson Studio** by clicking the **Try it for free** link.
 
 ![](assets/watson-tools-missing-select-studio.png)
 
-From the pricing plans, select the Lite plan and click Create.
+From the pricing plans, select the **Lite** plan and click **Create**.
 
 ![](assets/watson-tools-missing-select-studio-3.png)
 
@@ -47,13 +47,13 @@ Next, confirm its creation.
 
 ![](assets/watson-tools-missing-select-studio-confirm.png)
 
-You're now taken to the Watson Studio dashboard.
+You're now taken to the **Watson Studio** dashboard.
 
 ![](assets/watson-tools-missing-studio-dashboard.png)
 
-From here, you'll now need to go back to your project. From either the top navigation under "Projects" or in the "Recently updated projects" section, click on the link for your project to return.
+From here, you'll need to go back to your project. From either the top navigation under **Projects** or in the **Recently updated projects** section, click on the link for your project to return.
 
-Back in your project, click on "Settings" and look for the Tools section. Here you should now see Watson Tools as an unchecked option.
+Back in your project, click on **Settings** and look for the **Tools** section. Here you should now see **Watson Tools** as an unchecked option.
 
 ![](assets/watson-tools-missing-unchecked-box.png)
 
