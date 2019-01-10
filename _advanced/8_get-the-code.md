@@ -7,7 +7,7 @@ date: 2018-01-08
 ![](assets/launchpad_terminal.png)
 1. Clone the project with the following command
 ```bash
-git clone https://github.com/bourdakos1/visual-recognition-with-coreml.git
+git clone https://github.com/watson-developer-cloud/visual-recognition-coreml.git
 ```
 ![](https://cdn-images-1.medium.com/max/2000/1*jcEtIwpi2lEVOGT1sTRNkQ.png)
 1. Change into the project directory with the following command
