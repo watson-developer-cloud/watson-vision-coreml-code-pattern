@@ -3,7 +3,7 @@ title: Create a new project
 date: 2018-01-05
 ---
 
-Once you've created an account, navigate to [Watson Studio](http://dataplatform.ibm.com/), you should be greeted with with a nice welcome screen, but if not, click on the **Get started ▾** dropdown and you should end up seeing something like this:
+Once you've created an account, navigate to [Watson Studio](https://dataplatform.cloud.ibm.com), you should be greeted with with a nice welcome screen, but if not, click on the **Get started ▾** dropdown and you should end up seeing something like this:
 
 ![](https://cdn-images-1.medium.com/max/6208/1*dTrUKjjQl8W0O0uA6CDthg.png)
 
@@ -21,7 +21,7 @@ Give your project a descriptive name and then click **Add** to add a Cloud Objec
 > ### Object Storage is used to store all your training images
 > **Note:** If you already have an object storage instance it will automatically be selected
 
-![](https://cdn-images-1.medium.com/max/6208/1*xPV-6tkZ49c0rshbs1AZgA.png)
+![](https://developer.ibm.com/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Tutorials/watson-visual-recognition-with-core-ml-single-model/images/new-watson-studio-proj.png)
 
 Choose a pricing plan and click **Create**. Then **Confirm** on the following popup.
 

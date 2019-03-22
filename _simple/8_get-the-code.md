@@ -17,6 +17,6 @@ cd visual-recognition-coreml/Core\ ML\ Vision\ Custom
 ![](assets/terminal_clone_repo_finished.png)
 1. Now we will gather the Watson SDK by executing the following command:
 ```bash
-carthage bootstrap --platform iOS
+pod install
 ```
-![](assets/terminal_carthage.png)
+

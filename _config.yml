@@ -26,15 +26,15 @@ authors:
 
 collections:
   advanced:
-    output: true
+    output: false
   simple:
     output: true
   multiple:
-    output: true
+    output: false
   plz_work:
-    output: true
+    output: false
   arduino:
-    output: true
+    output: false
 
 defaults:
   - scope:
