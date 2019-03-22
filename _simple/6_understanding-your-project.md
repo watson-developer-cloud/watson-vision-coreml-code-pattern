@@ -93,3 +93,7 @@ You can upload the training files you created (or downloaded) earlier by clickin
 You should then see a list of your training data show up.
 
 ![](https://cdn-images-1.medium.com/max/6208/1*NqGRhrxMwy6UABy-cIsIiw.png)
+
+**or**
+
+![](assets/arduino_data_assets.png)
