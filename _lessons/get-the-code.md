@@ -3,7 +3,7 @@ title: Getting the code
 date: 2018-04-03
 ---
 
-1. From *Launchpad* search for `terminal` and click the icon to open the application
+1. From *Spotlight* search for `terminal` and click the icon to open the application
 ![](assets/launchpad_terminal.png)
 1. Clone the project with the following command
 ```bash
